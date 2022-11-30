@@ -3,7 +3,7 @@
 
 
 
-<h1 align="center">Hi Teher, I'm Abdelrahman Mohamed Roshdy 👋</h1>
+<h1 align="center">Hi there, I'm Abdelrahman Mohamed Roshdy 👋</h1>
 <h3 align="center">Junior DevOps Engineer</h3>
 <p>A highly motivated DevOps engineer with the necessary drive and determination needed to resolve issues. Possessing effective organizational skills and very good knowledge of automation and deployment tools such as Kubernetes, Docker, Terraform, Jenkins, and Ansible and loves to dig into new technology and understand its architecture. </p>
 
